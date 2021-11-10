@@ -46,10 +46,10 @@
 ![Website Image](flaskblog/static/img/main.png?raw=true "Title")
 ### About Page 
 ![Website Image](flaskblog/static/img/about.png?raw=true "Title")
-### Register Page 
+<!-- ### Register Page 
 ![Website Image](flaskblog/static/img/register.png?raw=true "Title")
 ### Login Page
-![Website Image](flaskblog/static/img/login.png?raw=true "Title")
+![Website Image](flaskblog/static/img/login.png?raw=true "Title") -->
 ### Checkup Page 
 ![Website Image](flaskblog/static/img/checkup.png?raw=true "Title")
 ### User Helpguide
@@ -79,9 +79,10 @@
 ## 🚧 Future Scope/ What's next?
 
 - [ ] Implementing disease prediction using symptoms through Whatsapp using API calls.
-- [ ] The model will not only predicts the disease but also suggests specialization that is meant to deal with the treatement.
-- [ ] To maintain the history of the predicted disease of the user.
-- [ ] Seeking online medical help via a calling feature and proving information of nearby healthcare center to the user.
+<!-- - [ ] The model will not only predicts the disease but also suggests specialization that is meant to deal with the treatement.
+- [ ] To maintain the history of the predicted disease of the user. -->
+- [ ] Seeking online medical help via a calling feature.
+- [ ] Providing information of nearby healthcare center to the user.
 - [ ] Make website responsive for multiple devices and develop mobile application for the same.
 
 <a id="resources"></a>
