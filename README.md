@@ -35,9 +35,10 @@
 
 <a id="features"></a>
 ## 🚀 Features
-- The user is required to register with the system, in order to access the features of the web application.
+<!-- - The user is required to register with the system, in order to access the features of the web application. -->
 - The disease is predicted using the algorithm(Decision Tree Classifier) and the user has to enter the symptoms from the given drop-down menu.
 - The web application suggests treatments through a chat-bot(Medibot) that is meant to deal with the prognosis and some relevant information about the same.
+- Provides the information about the nearby healthcare centers.
 - [Add more features](#feature-request)...
 
 <a id="overview"></a>
@@ -79,11 +80,11 @@
 ## 🚧 Future Scope/ What's next?
 
 - [ ] Implementing disease prediction using symptoms through Whatsapp using API calls.
-<!-- - [ ] The model will not only predicts the disease but also suggests specialization that is meant to deal with the treatement.
-- [ ] To maintain the history of the predicted disease of the user. -->
 - [ ] Seeking online medical help via a calling feature.
 - [ ] Providing information of nearby healthcare center to the user.
 - [ ] Make website responsive for multiple devices and develop mobile application for the same.
+<!-- - [ ] The model will not only predicts the disease but also suggests specialization that is meant to deal with the treatement.
+- [ ] To maintain the history of the predicted disease of the user. -->
 
 <a id="resources"></a>
 ## 📚 Resources
