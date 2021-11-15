@@ -1,5 +1,6 @@
 # MediSphere - Disease Diagnosis
-### MediSphere is a web application that diagnose disease using machine learning model based on the symptoms that the user enters.[Website Link](https://we-project-disease-predictor.herokuapp.com/)
+### MediSphere is a web application that diagnose disease using machine learning model based on the symptoms that the user enters.
+[Website Link](https://we-project-disease-predictor.herokuapp.com/)
 * We diagnose the disease if the patient is not in danger and the user simply wants to know what disease he or she might have.
 * The dataset consisting of at least 100 symptoms, is used to train the model to diagnose various diseases.
 * The web application provides latest health related news from all over the world.
