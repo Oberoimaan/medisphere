@@ -79,7 +79,7 @@ def guideline():
 def checkup():
     return render_template('checkup.html')
 
-with open('WE-Project-Disease-Predictor/flaskblog/Testing.csv', newline='') as f:
+with open('Testing.csv', newline='') as f:
         reader = csv.reader(f)
         symptoms = next(reader)
         symptoms = symptoms[:len(symptoms)-1]
