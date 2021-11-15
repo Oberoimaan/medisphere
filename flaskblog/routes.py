@@ -89,7 +89,6 @@ def dropdown():
         return render_template('templates/checkup.html', symptoms=symptoms)
 
 @app.route('/disease_predict', methods=['GET', 'POST'])
-@login_required
 def disease_predict():
     selected_symptoms = []
     if(request.form['Symptom1']!="") and (request.form['Symptom1'] not in selected_symptoms):
