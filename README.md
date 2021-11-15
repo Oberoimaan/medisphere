@@ -104,12 +104,11 @@
 ## 🚧 Future Scope/ What's next?
 
 - [ ] Implementing disease prediction using symptoms through Whatsapp using API calls.
-<!-- - [ ] Seeking online medical help via a calling feature.
-- [ ] Providing information of nearby healthcare center to the user. -->
 - [ ] Make website responsive for multiple devices and develop mobile application for the same.
 - [ ] Seeking online medical help via a calling feature.
 - [ ] Providing latest health-related news as html template on the email of subscribed users.
-
+<!-- - [ ] Seeking online medical help via a calling feature.
+- [ ] Providing information of nearby healthcare center to the user. -->
 <!-- - [ ] The model will not only predicts the disease but also suggests specialization that is meant to deal with the treatement.
 - [ ] To maintain the history of the predicted disease of the user. -->
 
