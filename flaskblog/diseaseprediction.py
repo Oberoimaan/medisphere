@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 import csv,numpy as np,pandas as pd
 import os
 
-data = pd.read_csv("/flaskblog/Training.csv")
+data = pd.read_csv("flaskblog/Training.csv")
 df = pd.DataFrame(data)
 cols = df.columns
 cols = cols[:-1]
